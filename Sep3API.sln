@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sep3API", "Sep3API\Sep3API.csproj", "{BA221875-39AE-475E-9336-12A7831DAE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA221875-39AE-475E-9336-12A7831DAE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA221875-39AE-475E-9336-12A7831DAE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA221875-39AE-475E-9336-12A7831DAE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA221875-39AE-475E-9336-12A7831DAE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
